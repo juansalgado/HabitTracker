@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Habit Tracker</string>
+
+    <string name="habit0">Break the alarm clock</string>
+    <string name="habit1">cold shower</string>
+    <string name="habit2">have breakfast</string>
+    <string name="habit3">Meet with Ned</string>
+    <string name="habit4">Present the weather news</string>
+    <string name="habit5">Eat donuts with Rita</string>
+    <string name="habit6">Learn french</string>
+    <string name="habit7">Learn first aid</string>
+    <string name="habit8">learn to play the piano</string>
+    <string name="habit9">To make ice sculptures</string>
+    <string name="habit10">Go to the dance</string>
+    <string name="habit11">Drink beers with friends</string>
+
+</resources>
